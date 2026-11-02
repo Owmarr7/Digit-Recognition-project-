@@ -18,3 +18,7 @@ from 0 to 9 using PyTorch.
 - NumPy
 - Matplotlib
 - Scikit-learn
+
+## Test
+
+Used streamlit to test the ML model my hand drawings
