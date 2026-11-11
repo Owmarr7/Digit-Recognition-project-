@@ -2,6 +2,6 @@ numpy
 matplotlib
 pillow
 tensorflow
-tensorflow-datasets
+certifi
 streamlit
 streamlit-drawable-canvas
