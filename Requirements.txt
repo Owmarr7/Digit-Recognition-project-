@@ -1,9 +1,7 @@
 numpy
-pandas
 matplotlib
-scikit-learn
-torch
-torchvision
-jupyter
-ipykernel
+pillow
+tensorflow
+tensorflow-datasets
 streamlit
+streamlit-drawable-canvas
